@@ -34,7 +34,7 @@ To run the game locally:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/SIMON-GAME.git
+   https://github.com/YUVAN-cse/SIMON-GAME.git
    ```
 2. Navigate to the project folder:
    ```sh
